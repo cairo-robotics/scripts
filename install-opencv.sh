@@ -3,7 +3,7 @@
 # CONFIGURATION
 
 # OpenCV Version
-ocv_ver='3.2.0'
+ocv_ver='3.3.0'
 
 # GUI framework: qt, gtk
 gui_fw='qt'
